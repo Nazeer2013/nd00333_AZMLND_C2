@@ -1,0 +1,2 @@
+(base) LAMU02XRJY1JG5J :: udacityML/nd00333_AZMLND_C2/assignment2 ‹master*› » python modelcode_bikecnt.py
+b'{"Results": {"forecast": [0.000164323314493231], "prediction_interval": ["[-0.016580346844006253, 0.016908993472992708]"], "index": [{"date": 1640995200000}]}}'

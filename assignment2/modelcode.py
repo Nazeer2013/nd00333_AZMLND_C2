@@ -19,19 +19,19 @@ data =  {
   "Inputs": {
     "data": [
       {
-          "instant": 1,
-          "date": "2013-01-01 00:00:00,000000",
-          "season": 1,
-          "yr": 0,
-          "mnth": 1,
-          "weekday": 6,
-          "weathersit": 2,
-          "temp": 0.344167,
-          "atemp": 0.363625,
-          "hum": 0.805833,
-          "windspeed": 0.160446,
-          "casual": 331,
-          "registered": 654
+        "instant": 0,
+        "date": "2000-01-01T00:00:00.000Z",
+        "season": 0,
+        "yr": 0,
+        "mnth": 0,
+        "weekday": 0,
+        "weathersit": 0,
+        "temp": 0.0,
+        "atemp": 0.0,
+        "hum": 0.0,
+        "windspeed": 0.0,
+        "casual": 0,
+        "registered": 0
       }
     ]
   },
@@ -40,19 +40,14 @@ data =  {
   }
 }
 
-# Convert to JSON string
-input_data = json.dumps(data)
-with open("data.json", "w") as _f:
-    _f.write(input_data)
-
 body = str.encode(json.dumps(data))
 
-url = 'http://a0e4d627-ff22-41a6-9e54-4d79cb67afb7.centralus.azurecontainer.io/score'
-api_key = 'MASKED FOR COMPANY POLICY REASONS' # Replace this with the API key for the web service
+url = 'https://demo-model-deploy-assignment2.centralus.inference.ml.azure.com/score'
+api_key = 'cgDKuA7GFnQQHdavdMVd7GST1Xlfu1so' # Replace this with the API key for the web service
 
 # The azureml-model-deployment header will force the request to go to a specific deployment.
 # Remove this header to have the request observe the endpoint traffic rules
-headers = {'Content-Type':'application/json', 'Authorization':('Bearer '+ api_key)}
+headers = {'Content-Type':'application/json', 'Authorization':('Bearer '+ api_key), 'azureml-model-deployment': 'myudacitydeploymentmodel' }
 
 req = urllib.request.Request(url, body, headers)
 

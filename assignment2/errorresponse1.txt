@@ -1,0 +1,30 @@
+(base) LAMU02XRJY1JG5J :: udacityML/nd00333_AZMLND_C2/assignment2 ‹master*› » python modelcode_bikecnt.py
+The request failed with status code: 424
+server: azureml-frontdoor
+date: Tue, 26 Jul 2022 05:28:28 GMT
+content-type: text/html; charset=utf-8
+content-length: 790
+x-ms-run-function-failed: True
+x-ms-request-id: cf8440e5-0efa-449c-ba6d-33e8d0435972
+x-request-id: 68fd3e2f-5957-4d54-893e-016af4ae5180
+ms-azureml-model-error-reason: model_error
+ms-azureml-model-error-statuscode: 500
+azureml-model-deployment: udacityassignment2bikemodel
+connection: close
+
+
+ForecastingDataException:
+	Message: Input prediction data X_pred or input forecast_destination contains dates prior to the latest date in the training data. Please remove prediction rows with datetimes in the training date range or adjust the forecast_destination date.
+	InnerException: None
+	ErrorResponse 
+{
+    "error": {
+        "code": "UserError",
+        "message": "Input prediction data X_pred or input forecast_destination contains dates prior to the latest date in the training data. Please remove prediction rows with datetimes in the training date range or adjust the forecast_destination date.",
+        "target": "self._ts_transformer",
+        "inner_error": {
+            "code": "BadData"
+        },
+        "reference_code": "9aa1211b-115a-474c-b522-c1170ae8c8b3"
+    }
+}
