@@ -1,8 +1,8 @@
 {
     "swagger": "2.0",
     "info": {
-        "title": "deploy-model-assign2",
-        "description": "API specification for the Azure Machine Learning service deploy-model-assign2",
+        "title": "proj-assign2-model2",
+        "description": "API specification for the Azure Machine Learning service proj-assign2-model2",
         "version": "1.0"
     },
     "schemes": [
@@ -97,72 +97,97 @@
                             "items": {
                                 "type": "object",
                                 "required": [
-                                    "instant",
-                                    "date",
-                                    "season",
-                                    "yr",
-                                    "mnth",
-                                    "weekday",
-                                    "weathersit",
-                                    "temp",
-                                    "atemp",
-                                    "hum",
-                                    "windspeed",
-                                    "casual",
-                                    "registered"
+                                    "age",
+                                    "job",
+                                    "marital",
+                                    "education",
+                                    "default",
+                                    "housing",
+                                    "loan",
+                                    "contact",
+                                    "month",
+                                    "day_of_week",
+                                    "duration",
+                                    "campaign",
+                                    "pdays",
+                                    "previous",
+                                    "poutcome",
+                                    "emp.var.rate",
+                                    "cons.price.idx",
+                                    "cons.conf.idx",
+                                    "euribor3m",
+                                    "nr.employed"
                                 ],
                                 "properties": {
-                                    "instant": {
+                                    "age": {
                                         "type": "integer",
                                         "format": "int64"
                                     },
-                                    "date": {
-                                        "type": "string",
-                                        "format": "date-time"
+                                    "job": {
+                                        "type": "string"
                                     },
-                                    "season": {
+                                    "marital": {
+                                        "type": "string"
+                                    },
+                                    "education": {
+                                        "type": "string"
+                                    },
+                                    "default": {
+                                        "type": "string"
+                                    },
+                                    "housing": {
+                                        "type": "string"
+                                    },
+                                    "loan": {
+                                        "type": "string"
+                                    },
+                                    "contact": {
+                                        "type": "string"
+                                    },
+                                    "month": {
+                                        "type": "string"
+                                    },
+                                    "day_of_week": {
+                                        "type": "string"
+                                    },
+                                    "duration": {
                                         "type": "integer",
                                         "format": "int64"
                                     },
-                                    "yr": {
+                                    "campaign": {
                                         "type": "integer",
                                         "format": "int64"
                                     },
-                                    "mnth": {
+                                    "pdays": {
                                         "type": "integer",
                                         "format": "int64"
                                     },
-                                    "weekday": {
+                                    "previous": {
                                         "type": "integer",
                                         "format": "int64"
                                     },
-                                    "weathersit": {
-                                        "type": "integer",
-                                        "format": "int64"
+                                    "poutcome": {
+                                        "type": "string"
                                     },
-                                    "temp": {
+                                    "emp.var.rate": {
                                         "type": "number",
                                         "format": "double"
                                     },
-                                    "atemp": {
+                                    "cons.price.idx": {
                                         "type": "number",
                                         "format": "double"
                                     },
-                                    "hum": {
+                                    "cons.conf.idx": {
                                         "type": "number",
                                         "format": "double"
                                     },
-                                    "windspeed": {
+                                    "euribor3m": {
                                         "type": "number",
                                         "format": "double"
                                     },
-                                    "casual": {
-                                        "type": "integer",
-                                        "format": "int64"
-                                    },
-                                    "registered": {
-                                        "type": "integer",
-                                        "format": "int64"
+                                    "nr.employed": {
+                                        "type": "number",
+                                        "format": "double"
                                     }
                                 }
                             },
@@ -186,19 +211,26 @@
                 "Inputs": {
                     "data": [
                         {
-                            "instant": 0,
-                            "date": "2000-01-01T00:00:00.000Z",
-                            "season": 0,
-                            "yr": 0,
-                            "mnth": 0,
-                            "weekday": 0,
-                            "weathersit": 0,
-                            "temp": 0.0,
-                            "atemp": 0.0,
-                            "hum": 0.0,
-                            "windspeed": 0.0,
-                            "casual": 0,
-                            "registered": 0
+                            "age": 0,
+                            "job": "example_value",
+                            "marital": "example_value",
+                            "education": "example_value",
+                            "default": "example_value",
+                            "housing": "example_value",
+                            "loan": "example_value",
+                            "contact": "example_value",
+                            "month": "example_value",
+                            "day_of_week": "example_value",
+                            "duration": 0,
+                            "campaign": 0,
+                            "pdays": 0,
+                            "previous": 0,
+                            "poutcome": "example_value",
+                            "emp.var.rate": 0.0,
+                            "cons.price.idx": 0.0,
+                            "cons.conf.idx": 0.0,
+                            "euribor3m": 0.0,
+                            "nr.employed": 0.0
                         }
                     ]
                 },
@@ -216,15 +248,14 @@
                 "Results": {
                     "type": "array",
                     "items": {
-                        "type": "integer",
-                        "format": "int64"
+                        "type": "string"
                     },
                     "format": "numpy.ndarray"
                 }
             },
             "example": {
                 "Results": [
-                    0
+                    "example_value"
                 ]
             }
         },
