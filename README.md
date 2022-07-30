@@ -203,6 +203,18 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
 
+**Unable to load Runwidget in Notebook**
+
+![Widget not loading](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/widgetnotloaded.png)
+
+**Installed Azure ML Widgets**
+
+![Installed ML Widget](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/widgetinstalledazuremlwidgets.png)
+
+**Installed Jupyter notebook extensions**
+
+![Installed Jupyter notebook extensions](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/widgetjupyterinstallwidgets.png)
+
 ## References
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview
 
