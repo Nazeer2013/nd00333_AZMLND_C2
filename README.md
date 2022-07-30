@@ -212,7 +212,8 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/ProjectScree
 
 In future I would recommed enhancing this by sourcing in customer social media data without compramising on any ethics, privacy and still be a value add particularly in banking and health care domain. By automating the complex anomaly detection process, organizations can process much more data much faster than human rule-based systems. This could even involve NLP, AR and VR. 
 
-** Issues and Challenges**
+**Issues and Challenges**
+
 Below are few screenshots showing RunWidget display issue.
 
 **Unable to load Runwidget in Notebook**
