@@ -140,7 +140,7 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 
 **Swagger runs HTTP API Methods and response for the model**
 
-![Swagger HTTP Response](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/swagger_prjlocal1_run.png)
+![Swagger HTTP Response](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/swaggerhubmodelresponse.png)
 
 **Run Model using Python SDK - Output**
 
