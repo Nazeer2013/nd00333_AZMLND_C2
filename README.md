@@ -177,6 +177,21 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 ![](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/notebookpipelinecompleted.png)
 
 
+## Aditional details
+
+**Endpoint Execution Results**
+
+![Endpoint Execution results](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/endpoint/endpoint1.png)
+
+
+**Benchmark Results form ab command**
+![ab_benchmark_result1](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/benchmark/ab_benchmark_result1.png)
+
+
+**Notebook run Confusion matrics**
+
+![Notebook confusion matrics](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/notebook/confusionmatricsvisual.png)
+
 
 
 ## Screen Recording
