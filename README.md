@@ -187,7 +187,7 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 ![Endpoint Execution results](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/endpoint/endpoint1.png)
 
 
-**Benchmark Results form ab command**
+**Benchmark Results form Apache Benchmark tool ab command**
 ![ab_benchmark_result1](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/benchmark/ab_benchmark_result1.png)
 
 
@@ -201,7 +201,10 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 
 **Screen Cast Recording**
 
-NOTE: I'm uploading mp
+NOTE: I'm uploading my screen cast in mp4 format to avoid any sensitive information falling in public domain.
+
+https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/ProjectScreencast.mp4
+
 
 ## Standout Suggestions
 
