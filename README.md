@@ -79,6 +79,50 @@ Deprecated workspace command
 
 ![Deprecated workspace command](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/azmlworkspacedepricated.png)
 
+### Data Ingest 
+
+**Create Bank Marketing Dataset**
+
+![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
+
+
+![Bank Marketing Dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bankmarketingdatasetautoml1.png)
+
+**Registered Data Assets**
+
+![Register Data asset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/registereddataset1.png)
+
+
+###Create Experiment 
+
+![Experiment 1](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
+
+### Train Model
+
+![Created Auto ML Job](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/experiment1.png)
+
+**Model Training Completed**
+
+![Experiment Complete](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
+
+
+### Deploy Best Model anf create endpoint
+
+**Select Best Model**
+
+![Select Best Model](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel1.png)
+
+**Best Model Selected**
+
+![Best Model Selected](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel2.png)
+
+
+**Run Model using Python SDK - Output**
+
+![Run Model Python](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/endpoint_run_prjassign2_jsonoutput.png)
+
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
