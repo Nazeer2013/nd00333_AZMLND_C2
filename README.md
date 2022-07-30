@@ -172,6 +172,9 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 
 ![](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/notebookpipelineendpoint.png)
 
+**Pipeline Active Status**
+![pipeline active](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/biketrainpipelineactivestatus.png)
+
 **Pipeline Executed Run Widget**
 
 ![](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/notebookpipelinecompleted.png)
