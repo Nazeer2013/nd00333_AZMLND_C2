@@ -123,6 +123,11 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 
 ### Step 4: Enable Logging - Application Insights
 
+**Enable App Insight using Python SDK Webservice logs.py**
+
+![Logs.py](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/logspyenableappinsight.png)
+
+
 **Enabled Application Insight - Model showing application insight link**
 
 ![Enabled App Insight](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/modelendpoint_appinsight.png)
