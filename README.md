@@ -23,7 +23,12 @@ We'll elaborate on above items from architecture, Auto ML and Python SDK project
 
 ## Architectural Diagram
 
+Successfully created service principal for given workspace
 ![Project Architural Diagram](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/UdacityAzureMLProjArch.png)
+
+Deprecated workspace command
+
+![Deprecated workspace command](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/azmlworkspacedepricated.png)
 
 ### Architectural Foundational components
 
