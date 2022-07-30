@@ -108,7 +108,11 @@ Deprecated workspace command
 
 ![Select Best Model](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel1.png)
 
+**Best Model Selected**
 
+![Best Model Selected](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel2.png)
+
+![Best Model](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel3.png)
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
