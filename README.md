@@ -132,6 +132,16 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 
 ![Enabled App Insight](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/modelendpoint_appinsight.png)
 
+### Step 5: Swagger Documentaion - Consume deployed model using Swagger
+
+**Swagger Instance for Model HTTP API**
+
+![Swagger for HTTP API](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/swagger_prjlocal1.png)
+
+**Swagger runs HTTP API Methods and response for the model**
+
+![Swagger HTTP Response](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/swagger_prjlocal1_run.png)
+
 **Run Model using Python SDK - Output**
 
 ![Run Model Python](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/endpoint_run_prjassign2_jsonoutput.png)
