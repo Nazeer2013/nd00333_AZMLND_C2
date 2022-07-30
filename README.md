@@ -6,7 +6,7 @@ Before getting into project overview I would like to in short describe  **WHY** 
 
 We all know there's something  powerfull with Machine Learning 'So what's that?'
 
-*Its the iterative nature of machine learning that's key, unlike traditional computing with machine learning as models are exposed to new data, they are able to independently evolve without any human intervention.* WOW! (understandable this isn't new, just thought of highlighting)
+*Its the iterative nature of machine learning that's key, unlike traditional computing with machine learning as models are exposed to new data, they are able to independently evolve without any human intervention.* WOW! (understandable it isn't new, just thought of highlighting)
 
 In this project we will demonstrate ML pipeline automation using both Azure ML Studio and Python SDK. We'll also showcase ML components and how they work together in the process of 
 
