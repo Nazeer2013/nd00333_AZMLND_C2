@@ -2,7 +2,7 @@
 
 # Project Title - Operationalizing Banks loan Recommendation Model
 
-Before getting into project overview I would like to in short describe  **WHY**  Machine learning.
+Before getting into project overview I would like to in short start with  **WHY**  Machine learning.
 
 We all know there's something  powerfull with Machine Learning 'So what's that?'
 
