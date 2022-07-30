@@ -8,13 +8,14 @@ Before getting into project overview I would like to in short describe  **WHY** 
 
 We all know there's something  powerfull with Machine Learning 'So what's that?'
 
-*Its the iterative nature of machine learning that is really important, because unlike traditional computing with machine learning as models are exposed to new data, they are able to independently evolve without any human intervention.*
+*Its the iterative nature of machine learning that is really important, because unlike traditional computing with machine learning as models are exposed to new data, they are able to independently evolve without any human intervention.* WOW!
 
 In this project we will demonstrate ML pipeline automation using both Azure ML Studio and Python SDK. 
 We'll also showcase ML components and how they work together in the process of 
 
     1. Authentication
-    2. Auto ML model
+    2. Ingest Data
+    2. TrainAuto ML model
     3. Deploy Best model 
     4. Enable logging 
     5. Consume model endpoints
@@ -78,10 +79,15 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 
 ## References
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview
+
 https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.datastore.datastore?view=azure-ml-py
+
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-attach-compute-cluster?tabs=python
+
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace
+
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-endpoints
+
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-environments
 
 
