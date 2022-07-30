@@ -191,7 +191,7 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 ![ab_benchmark_result1](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/benchmark/ab_benchmark_result1.png)
 
 
-**Notebook run Confusion matrics**
+**Notebook run Confusion matrix to test how best fitted model works**
 
 ![Notebook confusion matrics](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/notebook/confusionmatricsvisual.png)
 
