@@ -158,6 +158,24 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 
 ![Run Model Python](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/endpoint_run_prjassign2_jsonoutput.png)
 
+### Step 7: Create, Publish and Consume Pipeline
+
+**Jupyter notebook uploaded**
+
+https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipelines-with-automated-machine-learning-step.ipynb
+
+**Pipeline Created**
+
+![](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/notebookpipelinecreated.png)
+
+**Pipeline Endpoint**
+
+![](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/notebookpipelineendpoint.png)
+
+**Pipeline Executed Run Widget**
+
+![](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/notebookpipelinecompleted.png)
+
 
 
 
