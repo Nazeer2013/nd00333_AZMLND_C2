@@ -1,6 +1,6 @@
 
 
-# Project Title - Operationalizing Bank Loan Recommendation Model
+# Project Title - Operationalizing Banks loan Recommendation Model
 
 Before getting into project overview I would like to in short describe  **WHY**  Machine learning.
 
