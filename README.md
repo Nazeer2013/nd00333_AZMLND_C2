@@ -102,7 +102,7 @@ Deprecated workspace command
 ![Experiment Complete](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
 
 
-### Deploy Best Model
+### Deploy Best Model anf create endpoint
 
 **Select Best Model**
 
@@ -112,7 +112,12 @@ Deprecated workspace command
 
 ![Best Model Selected](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel2.png)
 
-![Best Model](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel3.png)
+
+**Run Model using Python SDK - Output**
+
+![Run Model Python](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/endpoint_run_prjassign2_jsonoutput.png)
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
