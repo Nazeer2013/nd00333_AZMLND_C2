@@ -55,8 +55,6 @@ Once you have a model you like, you register it with the workspace. You then use
 
 An **endpoint** is an HTTPS endpoint that clients can call to receive the inferencing (scoring) output of a trained model. 
 
-It provides: Authentication using "key & token". 
-
 A **deployment** is a set of resources required for hosting the model that does the actual inferencing.
 
 A single endpoint can contain multiple deployments. Endpoints and deployments are independent Azure Resource Manager resources that appear in the Azure porta
