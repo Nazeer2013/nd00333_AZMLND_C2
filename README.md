@@ -81,14 +81,14 @@ Deprecated workspace command
 
 ### Data Ingest 
 
-Create data set
+**Create Bank Marketing Dataset**
 
 ![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
 
 
 ![Bank Marketing Dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bankmarketingdatasetautoml1.png)
 
-Register Data Assets
+**Register Data Assets**
 
 ![Register Data asset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/registereddataset1.png)
 
@@ -97,11 +97,11 @@ Register Data Assets
 
 ![Created Auto ML Job](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/experiment1.png)
 
+**Model Training Completed**
 
 ![Experiment Complete](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
 
 
-#![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
 
 
 ## Screen Recording
