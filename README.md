@@ -67,6 +67,10 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
+### Authentication
+
+![Create Service Principal](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ServicePrincipalCreated1.png)
+
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
