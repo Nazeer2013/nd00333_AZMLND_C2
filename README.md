@@ -1,6 +1,4 @@
 
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
 
 # Project Title - Operationalizing Bank Loan Recommendation Model
 
@@ -8,10 +6,9 @@ Before getting into project overview I would like to in short describe  **WHY** 
 
 We all know there's something  powerfull with Machine Learning 'So what's that?'
 
-*Its the iterative nature of machine learning that is really important, because unlike traditional computing with machine learning as models are exposed to new data, they are able to independently evolve without any human intervention.* WOW!
+*Its the iterative nature of machine learning that's key, unlike traditional computing with machine learning as models are exposed to new data, they are able to independently evolve without any human intervention.* WOW! (understandable this isn't new, just thought of highlighting)
 
-In this project we will demonstrate ML pipeline automation using both Azure ML Studio and Python SDK. 
-We'll also showcase ML components and how they work together in the process of 
+In this project we will demonstrate ML pipeline automation using both Azure ML Studio and Python SDK. We'll also showcase ML components and how they work together in the process of 
 
     1. Authentication
     2. Ingest Data
@@ -22,10 +19,9 @@ We'll also showcase ML components and how they work together in the process of
     6. Create and Publish pipeline
     7. Documentation
 
-We'll elaborate on above items from architecture, Auto ML and Python SDK project task perspective. It  gives  a high-level understanding of the components and how they work together to assist in the process of building, deploying, and maintaining machine learning models.
+We'll elaborate on above items from architecture, Auto ML and Python SDK project tasks perspective. It  gives  a high-level understanding of the components and how they work together to assist in the process of building, deploying, and maintaining machine learning models.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ![Project Architural Diagram](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/UdacityAzureMLProjArch.png)
 
