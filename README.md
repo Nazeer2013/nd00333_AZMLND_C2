@@ -79,6 +79,23 @@ Deprecated workspace command
 
 ![Deprecated workspace command](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/azmlworkspacedepricated.png)
 
+### Data Ingest 
+
+Create data set
+
+![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
+
+
+![Bank Marketing Dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bankmarketingdatasetautoml1.png)
+
+![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
+
+
+![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
+
+
+![Create dataset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/CreateDataset1.png)
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
