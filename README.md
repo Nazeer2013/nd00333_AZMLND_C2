@@ -142,6 +142,18 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 
 ![Swagger HTTP Response](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/swaggerhubmodelresponse.png)
 
+### Step 6: Consume model Endpoints
+
+**Model endpoint**
+
+![Model Endpoint](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/projmodelendpoint.png)
+
+
+**Python SDK consume model endpoint**
+
+![Consume Model endpoint](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/endpointconsumemodelpy.png)
+
+
 **Run Model using Python SDK - Output**
 
 ![Run Model Python](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/endpoint_run_prjassign2_jsonoutput.png)
