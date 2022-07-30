@@ -198,10 +198,14 @@ https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/project/aml-pipeline
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+**Screen Cast Recording**
+
+NOTE: I'm uploading mp
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+Below are few screenshots showing RunWidget display issue.
 
 **Unable to load Runwidget in Notebook**
 
