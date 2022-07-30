@@ -69,17 +69,20 @@ A single endpoint can contain multiple deployments. Endpoints and deployments ar
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
-### Authentication
+### Step 1:  Authentication
 
-Successfully created service principal for given workspace
+**Successfully created service principal for given workspace**
+
 ![Create Service Principal](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ServicePrincipalCreated1.png)
 
 
-Deprecated workspace command
+**Deprecated workspace command using az role assignment**
 
 ![Deprecated workspace command](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/azmlworkspacedepricated.png)
 
-### Data Ingest 
+### Step 2: Automated ML Experimant 
+
+**Data Ingest** 
 
 **Create Bank Marketing Dataset**
 
@@ -93,29 +96,36 @@ Deprecated workspace command
 ![Register Data asset](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/registereddataset1.png)
 
 
-###Create Experiment 
+### Create new Automated ML Job and configure job
 
-![Experiment 1](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
-
-### Train Model
+**Bank loan recommendation experiment is using Classification technique for yes/no prediction**
 
 ![Created Auto ML Job](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/experiment1.png)
 
-**Model Training Completed**
 
-![Experiment Complete](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
+**Automated ML run completed** 
+
+![Experiment 1](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/ExperimentCompleted1.png)
 
 
-### Deploy Best Model anf create endpoint
+### Step 3: Deploy Best Model anf create endpoint
+
+**Deploy the Model**
 
 **Select Best Model**
 
 ![Select Best Model](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel1.png)
 
-**Best Model Selected**
+**Selected Best Model**
 
 ![Best Model Selected](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/bestmodel2.png)
 
+
+### Step 4: Enable Logging - Application Insights
+
+**Enabled Application Insight - Model showing application insight link**
+
+![Enabled App Insight](https://github.com/Nazeer2013/nd00333_AZMLND_C2/blob/master/assignment2/images/project/modelendpoint_appinsight.png)
 
 **Run Model using Python SDK - Output**
 
